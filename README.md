@@ -1,3 +1,4 @@
+cat > README.md << 'EOF'
 <h1 align="center">Hi 👋, I'm Yashasvi Singh Rajput</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
@@ -10,9 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codedbysvi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="codedbysvi" />
-  <img src="https://img.shields.io/github/followers/codedbysvi?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/codedbysvi?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Ne0Jarvis&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ne0Jarvis" />
+  <img src="https://img.shields.io/github/followers/Ne0Jarvis?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
 </p>
 
 ---
@@ -39,26 +39,37 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbysvi&show_icons=true&theme=radical&hide_border=true" alt="codedbysvi's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbysvi&theme=radical&hide_border=true" alt="codedbysvi's streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ne0Jarvis&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ne0Jarvis&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbysvi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne0Jarvis&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 **Current Focus**
+## 🚀 **Current Projects**
 
-- 🔭 **Learning:** Advanced Full Stack Development
-- 🌱 **Mastering:** React & Node.js Ecosystem
-- 👯 **Looking to collaborate on:** Open Source Projects
-- 💬 **Ask me about:** Java, Web Development, Problem Solving
+### 🎯 Problem Solving
+- **Java Problems 1-10** - Algorithm solutions
+- **Data Structures** - Core DS implementations
+
+### 🔧 Full Stack Development
+- Learning MERN Stack
+- Building web applications
 
 ---
 
-## 📫 **Let's Connect**
+## 📈 **Recent Activity**
+
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📫 **Connect with Me**
 
 <p align="center">
   <a href="https://twitter.com/yashasvi_55" target="_blank">
@@ -77,26 +88,7 @@
 
 ---
 
-## 💻 **Recent Activity**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 **Goals**
-
-- [ ] Contribute to 5+ Open Source Projects
-- [ ] Master MERN Stack
-- [ ] Build 10+ Real World Projects
-- [ ] Learn DevOps Basics
-
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
-
-<p align="center">
-  <i>⚡ Code is poetry, and every bug is a learning opportunity!</i>
-</p>//github-readme-streak-stats.herokuapp.com/?user=codedbysvi&" alt="codedbysvi" /></p>
+EOF
