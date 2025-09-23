@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Problem+Solver;Continuous+Learner;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <p align="center">
