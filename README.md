@@ -52,7 +52,7 @@ cat > README.md << 'EOF'
 ## 🚀 **Current Projects**
 
 ### 🎯 Problem Solving
-- **Java Problems 1-10** - Algorithm solutions
+- **Java Problems** - Algorithm solutions
 - **Data Structures** - Core DS implementations
 
 ### 🔧 Full Stack Development
