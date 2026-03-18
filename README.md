@@ -44,7 +44,7 @@ cat > README.md << 'EOF'
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ne0Jarvis&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviRajput13&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
