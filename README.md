@@ -11,8 +11,8 @@ cat > README.md << 'EOF'
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ne0Jarvis&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ne0Jarvis" />
-  <img src="https://img.shields.io/github/followers/Ne0Jarvis?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ne0Jarvis&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="YashasviRajput13" />
+  <img src="https://img.shields.io/github/followers/YashasviRajput13?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
 </p>
 
 ---
