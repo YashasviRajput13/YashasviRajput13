@@ -39,8 +39,8 @@ cat > README.md << 'EOF'
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ne0Jarvis&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ne0Jarvis&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashasviRajput13&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviRajput13&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
