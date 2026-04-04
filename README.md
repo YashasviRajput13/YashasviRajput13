@@ -45,26 +45,6 @@
 
 ---
 
-# ⚡ My Projects
-
-- 🍽️ Food Court Management System (Java, OOP)
-- 🔗 Client-Server System (Socket Programming)
-- 🤖 AI Citizen Services Portal
-- 🎉 Plan My Event (Full Stack Platform)
-- 🌐 GDG OIST Web Platform
-
----
-
-# 🏆 Achievements
-
-- 🥈 2nd Runner-Up – Google Developer Hackathon  
-- 🥇 1st Prize – Bhopal DAO Buildathon  
-- 🚀 SIH 2025 Finalist  
-- 🧠 Selected in MANIT Hackathon (Top 21/1000+)  
-- 📜 Indian Patent Published (AI Drone System)
-
----
-
 # 🎬 Dev Vibes
 
 <div align="center">
