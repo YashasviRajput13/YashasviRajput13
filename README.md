@@ -73,15 +73,13 @@
 
 ---
 
-# 🌐 Where to find me?
+# Where to find me? :thinking:                
+<img align="right" src="https://emoji.gg/assets/emoji/6738_WaddlingDuck.gif" />
 
-<img align="right" src="Gifs/gif2.gif" width="150"/>
-
-<p>
-<a href="https://twitter.com/YashasviRajput13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yashasvi-s-rajput"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YashasviRajput13"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
+<p><a href="www.linkedin.com/in/yashasvi-s-rajput-492154319"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+<p><a href="https://dev.to/dhruv194"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
+<p><a href="https://gitlab.com/YashasviRajput13"><img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
 
 ---
 
