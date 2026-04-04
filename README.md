@@ -66,9 +66,10 @@
 
 <img align="right" src="Gifs/gif1.gif" width="150"/>
 
-### - Competitive Coding (LeetCode / Codeforces)  
-### - Organizing Tech Events (GDG OIST)  
-### - Exploring AI deeply 🤖  
+### - Swimming
+### - Enjoy reading fiction
+### - Playing chess 🔳
+### - Solving Rubik's Cube 💯 
 
 ---
 
