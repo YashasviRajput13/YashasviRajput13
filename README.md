@@ -1,4 +1,4 @@
-![Banner](Images/img1.png)
+![Banner](Images/img2.png)
 
 ---
 
@@ -40,7 +40,7 @@
 # 💻 My Tech-Stack
 
 <div align="center">
-<img src="Images/img2.png" width="100%" />
+<img src="Images/img1.png" width="100%" />
 </div>
 
 ---
