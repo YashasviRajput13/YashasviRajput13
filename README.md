@@ -49,8 +49,6 @@
 
 <div align="center">
 <img src="Gifs/gif1.gif" width="220"/>
-<img src="Gifs/gif2.gif" width="220"/>
-<img src="Gifs/gif3.gif" width="220"/>
 </div>
 
 ---
