@@ -1,98 +1,126 @@
-![Banner Image](https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/GithubReadme%20BAnner%20long%20(1).png)
 
---- 
-
-
+![Uploading img2.png…]()
 
 ---
 
 <div align="center">
-<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" hspace="10"/>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
-<img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/>
-<a href="https://dhruv-194.github.io/"><img align ="center" src="https://img.shields.io/badge/My%20Website-Check%20my%20website-orange"/> </a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=YashasviRajput13.visitor-badge"/>
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
 
-<br>
-<br>
-<p><a href="https://twitter.com/wilder569"><img align = "center" src= "https://github-readme-stats1-j4zve90rn-dhruv-194.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"></a></p>
+<a href="https://github.com/YashasviRajput13">
+<img src="https://img.shields.io/badge/Profile-Visit-orange"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YashasviRajput13&show_icons=true&theme=radical"/>
 
 </div>
 
---- 
-
-
-
----
-<!--
-# What do I know? :bulb:
-
-| Worked Domains | Description | 
-| ---------------------------------------------------------------------------------------------------------------------- | --------------- | 
-| <img src = "https://www.iconfinder.com/data/icons/ionicons/512/icon-game-controller-b-512.png" width="50" height="40"> | A budding game developer. Learning game development at University. Currently knows about Unity(C#) and have worked upon python's pygame library. | 
-| <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="50" height="40"> | Technically proficient with Android Mobile Development. I have a decent knowledge of using Android Studio (java) for creating apps.| 
-| <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensourceinitiative.svg" width="50" height="40"> | Passionate about the community hence likes to give back to the field of interest by being an active open source contributor.|
-| <img src = "https://www.iconfinder.com/data/icons/font-awesome/1792/pied-piper-alt-512.png" width="50" height="50"> | Excited to learn new technology. Have keen interest in the field of AI-ML. Learning ethical hacking as a hobby of interest. | 
-
-
---- 
-
-
-
----
--->
-# What do I know? :bulb:
-
-* #### I am technically proficent with Android Mobile Development and I am a budding game developer. 
-* #### I am also passionate about the open source community and therefore I am an acitve open source contributor. 
-* #### Lastly I have keen interest in the field of AI-ML and ethical hacking. 
---- 
-
-
-
----
-# My Tech-Stack : :computer:
-<!--<img align="right" src="https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/8740_developer_transparent.gif" />
-<img src = "https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/My%20TechStack.png" width = "300" height  = "250" /> -->
-![My TecStack Banner](https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/My%20Techstack%20Banner.png)
-
-
-
---- 
-
-
-
 ---
 
-# Fun Facts/Hobbies : :zap:
-<img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
-
-### - Learning Japanese :japanese_castle:
-### - Playing chess :white_square_button:
-### - Solving Rubik's Cube :100:
-
-
---- 
-
-
-
----
-
-# Where to find me? :thinking:                
-<img align="right" src="https://emoji.gg/assets/emoji/6738_WaddlingDuck.gif" />
-
-<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
-<p><a href="http://linkedin.com/in/dhruv-mehta-194dev/"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
-<p><a href="https://dev.to/dhruv194"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
-<p><a href="https://gitlab.com/Dhruv194"><img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
-<p><a href ="https://medium.com/@dhruv1592001"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></p>
-
---- 
-
-
-
----
-# Below are some of my favourite pinned repositories :point_down:
+<h1 align="center">Hi 👋 I'm Yashasvi Singh Rajput</h1>
+<p align="center">Full Stack Developer | AI/ML Undergraduate 🚀</p>
 
 <div align="center">
-<img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
- </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Continuous+Learner;AI%2FML+Explorer;Full+Stack+Developer"/>
+</div>
+
+---
+
+# 💡 What do I know?
+
+* #### 🚀 Full Stack Development (React + Java Backend)
+* #### 🤖 AI/ML Development & Intelligent Systems
+* #### 🧠 Strong in DSA, OOP, DBMS, OS, Computer Networks
+* #### 🏆 Hackathon Builder & Competitive Programmer
+
+---
+
+# 💻 My Tech-Stack
+
+<div align="center">
+<img src="Images/img2.png" width="100%" />
+</div>
+
+---
+
+# ⚡ My Projects
+
+- 🍽️ Food Court Management System (Java, OOP)
+- 🔗 Client-Server System (Socket Programming)
+- 🤖 AI Citizen Services Portal
+- 🎉 Plan My Event (Full Stack Platform)
+- 🌐 GDG OIST Web Platform
+
+---
+
+# 🏆 Achievements
+
+- 🥈 2nd Runner-Up – Google Developer Hackathon  
+- 🥇 1st Prize – Bhopal DAO Buildathon  
+- 🚀 SIH 2025 Finalist  
+- 🧠 Selected in MANIT Hackathon (Top 21/1000+)  
+- 📜 Indian Patent Published (AI Drone System)
+
+---
+
+# 🎬 Dev Vibes
+
+<div align="center">
+<img src="Gifs/gif1.gif" width="220"/>
+<img src="Gifs/gif2.gif" width="220"/>
+<img src="Gifs/gif3.gif" width="220"/>
+</div>
+
+---
+
+# 🧠 What I Focus On
+
+- Backend Engineering (Java + Spring Boot)  
+- Full Stack Development (React.js)  
+- Database Systems (MySQL, MongoDB)  
+- AI/ML + Automation  
+
+---
+
+# ⚡ Fun Facts / Hobbies
+
+<img align="right" src="Gifs/gif1.gif" width="150"/>
+
+### - Competitive Coding (LeetCode / Codeforces)  
+### - Organizing Tech Events (GDG OIST)  
+### - Exploring AI deeply 🤖  
+
+---
+
+# 🌐 Where to find me?
+
+<img align="right" src="Gifs/gif2.gif" width="150"/>
+
+<p>
+<a href="https://twitter.com/YashasviRajput13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yashasvi-s-rajput"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YashasviRajput13"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+# 📌 Featured Work
+
+<div align="center">
+<img src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviRajput13&theme=radical"/>
+</div>
+
+---
+
+<div align="center">
+✨ Building scalable systems, not just writing code ✨
+</div>
