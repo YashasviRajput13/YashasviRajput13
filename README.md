@@ -1,16 +1,6 @@
 <img width="1200" height="220" alt="dino-header" src="https://github.com/user-attachments/assets/be236bbb-c405-452d-a7b6-dc073934be05" />
 
 ---
-<a href="https://github.com/YashasviRajput13">
-<img src="https://img.shields.io/badge/Profile-Visit-orange"/>
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashasviRajput13&show_icons=true&theme=radical"/>
-</div>
-
----
 
 <h1 align="center">Hi 👋 I'm Yashasvi Singh Rajput</h1>
 <p align="center">Full Stack Developer | AI/ML Undergraduate 🚀</p>
