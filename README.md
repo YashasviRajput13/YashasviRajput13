@@ -1,4 +1,6 @@
-![Banner](Images/img2.png)
+<p align="center">
+  <img src="./dino-header.svg" width="100%" alt="Chrome Dino Header">
+</p>
 
 ---
 
