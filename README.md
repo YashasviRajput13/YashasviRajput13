@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./dino-header.gif" width="100%">
-</p>
+<img width="1200" height="220" alt="dino-header" src="https://github.com/user-attachments/assets/be236bbb-c405-452d-a7b6-dc073934be05" />
 
 ---
 
