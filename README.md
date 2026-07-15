@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dino-header.svg" width="100%" alt="Chrome Dino Header">
+<img src="./dino-header.gif" width="100%">
 </p>
 
 ---
