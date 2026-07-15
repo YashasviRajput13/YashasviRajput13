@@ -1,1 +1,52 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<style>
+text{font-family:monospace;fill:#f5f5f5}
+.bg{fill:#0d1117}
+.ground{stroke:#8b949e;stroke-width:2;stroke-dasharray:8 8}
+.cloud{fill:#c9d1d9}
+.cactus{fill:#58a6ff}
+.dino{fill:#f5f5f5}
+.move{animation:move 4s linear infinite}
+.move2{animation:move 7s linear infinite}
+.legs1{animation:leg1 .18s infinite}
+.legs2{animation:leg2 .18s infinite}
+@keyframes move{from{transform:translateX(1250px)}to{transform:translateX(-180px)}}
+@keyframes leg1{0%,100%{height:16px}50%{height:10px}}
+@keyframes leg2{0%,100%{height:10px}50%{height:16px}}
+</style>
+
+<rect class="bg" width="1200" height="220"/>
+
+<text x="30" y="38" font-size="26">Yashasvi Singh Rajput</text>
+<text x="30" y="64" font-size="16" fill="#8b949e">AI Engineer • Full Stack • Java • Open Source</text>
+
+<line class="ground" x1="0" y1="175" x2="1200" y2="175"/>
+
+<g class="dino" transform="translate(70,118)">
+<rect x="10" y="20" width="34" height="22"/>
+<rect x="28" y="0" width="20" height="25"/>
+<rect x="45" y="8" width="10" height="8"/>
+<rect class="legs1" x="16" y="42" width="5" height="16"/>
+<rect class="legs2" x="31" y="42" width="5" height="16"/>
+<circle cx="40" cy="8" r="2" fill="#0d1117"/>
+</g>
+
+<g class="move cactus">
+<rect x="0" y="115" width="8" height="60"/>
+<rect x="-8" y="132" width="8" height="20"/>
+<rect x="8" y="125" width="8" height="24"/>
+</g>
+
+<g class="move2 cloud">
+<ellipse cx="0" cy="55" rx="18" ry="10"/>
+<ellipse cx="18" cy="48" rx="15" ry="11"/>
+<ellipse cx="36" cy="55" rx="18" ry="10"/>
+</g>
+
+<text x="930" y="35" font-size="18">PROJECTS: 28</text>
+<text x="930" y="60" font-size="18">LEETCODE: 620+</text>
+<text x="930" y="85" font-size="18">LEVEL: AI ENGINEER</text>
+<text x="930" y="110" font-size="18">SCORE: 000451</text>
+</svg>
