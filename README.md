@@ -1,12 +1,6 @@
 <img width="1200" height="220" alt="dino-header" src="https://github.com/user-attachments/assets/be236bbb-c405-452d-a7b6-dc073934be05" />
 
 ---
-
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=YashasviRajput13.visitor-badge"/>
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
-
 <a href="https://github.com/YashasviRajput13">
 <img src="https://img.shields.io/badge/Profile-Visit-orange"/>
 </a>
