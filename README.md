@@ -1,4 +1,5 @@
-![Uploading dino-header.gif…]()
+<img width="1200" height="220" alt="dino-header" src="https://github.com/user-attachments/assets/40344bf6-cc21-4fb8-98d5-075db5f61995" />
+
 
 ---
 
