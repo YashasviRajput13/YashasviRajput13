@@ -1,3 +1,5 @@
+[preview.html](https://github.com/user-attachments/files/35217662/preview.html)
+
 <div class="game">
   <div class="dino">🦖</div>
   <div class="cactus">🌵</div>
@@ -88,7 +90,6 @@ function gameLoop() {
 
 gameLoop();
 </script>
-
 
 ---
 
