@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://yashasvirajput13.github.io/https://github.com/YashasviRajput13/YashasviRajput13.git/preview.html">
-    🦖 PLAY MY DINO GAME
-  </a>
+  <img src="dino-game.gif" width="100%" alt="Yashasvi's Dino Game">
 </p>
 
 ---
