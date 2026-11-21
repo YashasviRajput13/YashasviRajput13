@@ -3,12 +3,9 @@
 
 ---
 
-<h1 align="center">Hi 👋 I'm Yashasvi Singh Rajput</h1>
-<p align="center">Full Stack Developer | AI/ML Undergraduate 🚀</p>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Continuous+Learner;AI%2FML+Explorer;Full+Stack+Developer"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=1&pause=999999&color=FF4F81&center=true&vCenter=true&width=650&lines=Hello!+I'm+Yashasvi+Singh+Rajput" />
+</h1>
 
 ---
 
